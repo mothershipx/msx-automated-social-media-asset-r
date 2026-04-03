@@ -1,0 +1,7 @@
+# MSX Product Configuration
+product: Automated Social Media Asset Resizing for Brands
+slug: automated-social-media-asset-r
+org: mothershipx
+status: pre-mvp
+auto_deploy: true
+subdomain: automated-social-media-asset-r.msx.dev
